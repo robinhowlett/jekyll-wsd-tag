@@ -48,7 +48,7 @@ Bob->Alice: Authentication Response
   
 _Result:_  
 
-<img src="http://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgQXV0aGVudGljYXRpb24gU2VxdWVuY2UKCkFsaWNlLT5Cb2I6ABUQUmVxdWVzdApub3RlIHJpZ2h0IG9mIAAlBUJvYiB0aGlua3MgYWJvdXQgaXQKQm9iLT4ASgUANxNzcG9uc2UK&s=default"/>
+<img src="default.png"/>
 
 #### with wsd_style parameter
 
@@ -62,7 +62,7 @@ Bob->Alice: Authentication Response
   
 _Result:_  
 
-<img src="http://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgQXV0aGVudGljYXRpb24gU2VxdWVuY2UKCkFsaWNlLT5Cb2I6ABUQUmVxdWVzdApub3RlIHJpZ2h0IG9mIAAlBUJvYiB0aGlua3MgYWJvdXQgaXQKQm9iLT4ASgUANxNzcG9uc2UK&s=rose"/>
+<img src="rose.png"/>
 
 ## License
 ---

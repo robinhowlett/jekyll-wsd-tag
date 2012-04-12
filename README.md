@@ -48,7 +48,7 @@ Bob->Alice: Authentication Response
   
 _Result:_  
 
-<img src="default.png"/>
+<img src="https://github.com/rhowlett/jekyll-wsd-tag/blob/master/default.png"/>
 
 #### with wsd_style parameter
 
@@ -62,7 +62,7 @@ Bob->Alice: Authentication Response
   
 _Result:_  
 
-<img src="rose.png"/>
+<img src="https://github.com/rhowlett/jekyll-wsd-tag/blob/master/rose.png"/>
 
 ## License
 ---

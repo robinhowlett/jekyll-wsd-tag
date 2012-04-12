@@ -38,31 +38,31 @@ Where `wsd_style` is one of:
 ## Example
 ---
 
-`{% wsg %}`  
-title Authentication Sequence  
+	{% wsg %}  
+	title Authentication Sequence  
   
-Alice->Bob: Authentication Request  
-note right of Bob: Bob thinks about it  
-Bob->Alice: Authentication Response  
-`{% endwsg %}`  
+	Alice->Bob: Authentication Request  
+	note right of Bob: Bob thinks about it  
+	Bob->Alice: Authentication Response  
+	{% endwsg %}
   
 _Result:_  
 
-<img src="https://github.com/rhowlett/jekyll-wsd-tag/blob/master/default.png"/>
+<img src="https://github.com/rhowlett/jekyll-wsd-tag/raw/master/default.png"/>
 
 #### with wsd_style parameter
 
-`{% wsg rose %}`  
-title Authentication Sequence  
+	{% wsg rose %}  
+	title Authentication Sequence  
   
-Alice->Bob: Authentication Request  
-note right of Bob: Bob thinks about it  
-Bob->Alice: Authentication Response  
-`{% endwsg %}`  
+	Alice->Bob: Authentication Request  
+	note right of Bob: Bob thinks about it  
+	Bob->Alice: Authentication Response  
+	{% endwsg %}  
   
 _Result:_  
 
-<img src="https://github.com/rhowlett/jekyll-wsd-tag/blob/master/rose.png"/>
+<img src="https://github.com/rhowlett/jekyll-wsd-tag/raw/master/rose.png"/>
 
 ## License
 ---

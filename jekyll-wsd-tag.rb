@@ -3,9 +3,10 @@ module Jekyll
     def initialize(name, params, tokens)
       super
       
-      @wsd_style = "modern-blue"
+      @wsd_style = "default"
       
       if params != nil && !params.empty?
+        #'earth', 'modern-blue', 'mscgen', 'omegapple', 'qsd', 'rose', 'roundgreen', 'napkin'
         @wsd_style = params
       end
     end

@@ -1,17 +1,17 @@
 jekyll-wsd-tag is a Jekyll plugin to embed a web sequence diagram using [the script provided by websequencediagrams.com](http://www.websequencediagrams.com)
 
 ## Requirements
----
+
 
 [Jekyll](https://github.com/mojombo/jekyll)
 
 ## Installation
----
+
 
 Add **jekyll-wsd-tag.rb** to the _**\_plugins**_ directory of your Jekyll site.
 
 ## Usage
----
+
 
 `{% wsg %}`  
 *diagram source text*  
@@ -36,7 +36,7 @@ Where `wsd_style` is one of:
 * napkin
 
 ## Example
----
+
 
 	{% wsg %}  
 	title Authentication Sequence  
@@ -65,6 +65,6 @@ _Result:_
 <img src="https://github.com/rhowlett/jekyll-wsd-tag/raw/master/rose.png"/>
 
 ## License
----
+
 
 [License](jekyll-wsd-tag/blob/master/LICENSE)

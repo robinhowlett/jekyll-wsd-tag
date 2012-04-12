@@ -17,11 +17,11 @@ Add **jekyll-wsd-tag.rb** to the _**\_plugins**_ directory of your Jekyll site.
 ### Example
 
 `{% wsg %}`
-title Authentication Sequence
-
-Alice->Bob: Authentication Request
-note right of Bob: Bob thinks about it
-Bob->Alice: Authentication Response
+title Authentication Sequence  
+  
+Alice->Bob: Authentication Request  
+note right of Bob: Bob thinks about it  
+Bob->Alice: Authentication Response  
 `{% endwsg %}`
 
 ### License

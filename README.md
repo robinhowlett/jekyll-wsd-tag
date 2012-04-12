@@ -30,4 +30,4 @@ _Result:_
 
 ### License
 
-[License](jekyll-gist-it-tag/blob/master/LICENSE)
+[License](jekyll-wsd-tag/blob/master/LICENSE)

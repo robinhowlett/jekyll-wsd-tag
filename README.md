@@ -10,19 +10,23 @@ Add **jekyll-wsd-tag.rb** to the _**\_plugins**_ directory of your Jekyll site.
 
 ### Usage
 
-`{% wsg %}`
-	
+`{% wsg %}`  
+*diagram source text*  
 `{% endwsg %}`
 
 ### Example
 
-`{% wsg %}`
+`{% wsg %}`  
 title Authentication Sequence  
   
 Alice->Bob: Authentication Request  
 note right of Bob: Bob thinks about it  
 Bob->Alice: Authentication Response  
-`{% endwsg %}`
+`{% endwsg %}`  
+  
+_Result:_  
+
+<img src="http://www.websequencediagrams.com/index.php?img=mscHqoBuM"/>
 
 ### License
 

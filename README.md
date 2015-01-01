@@ -48,7 +48,7 @@ Where `wsd_style` is one of:
   
 _Result:_  
 
-<img src="https://github.com/rhowlett/jekyll-wsd-tag/raw/master/default.png"/>
+<img src="https://github.com/robinhowlett/jekyll-wsd-tag/raw/master/default.png"/>
 
 #### with wsd_style parameter
 
@@ -62,7 +62,7 @@ _Result:_
   
 _Result:_  
 
-<img src="https://github.com/rhowlett/jekyll-wsd-tag/raw/master/rose.png"/>
+<img src="https://github.com/robinhowlett/jekyll-wsd-tag/raw/master/rose.png"/>
 
 ## License
 
